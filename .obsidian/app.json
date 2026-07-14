@@ -1,0 +1,10 @@
+﻿{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "livePreview": true
+}
